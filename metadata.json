@@ -1,0 +1,6 @@
+{
+  "name": "CineLingo",
+  "description": "Кино үзэнгээ англи хэл сурах, үгийн санг карт хэлбэрээр (PPT) давтах модерн неон өнгөтэй апп",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
